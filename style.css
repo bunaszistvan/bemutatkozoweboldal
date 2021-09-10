@@ -1,0 +1,17 @@
+body{
+    background-image: url("coding.jpg");
+    width: 100%;
+
+}
+h1{
+    text-align: left;
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+    text-align: left;
+    font-size: larger;
+}
+a{
+    color: antiquewhite;
+}
